@@ -85,7 +85,3 @@ The CSV file looks like this:
 - **"File not found"** — Make sure the HTML file is in the same folder as the script
 - **"No data bars found"** — The HTML file might be corrupted or from a different Starlink page
 - **Wrong date range** — Check that your billing start day (BILLING_START_DAY) is correct
-
-## Questions?
-
-The code is well-documented with comments explaining each step. Feel free to modify it to fit your needs!
