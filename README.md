@@ -49,6 +49,10 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+Python Script for venv:
+python -m venv .venv
+.venv/Scripts/Activate/ps1
+
 ## Files in This Project
 
 - `web_scraper.py` — Main script (run this)
